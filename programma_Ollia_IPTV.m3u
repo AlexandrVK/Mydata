@@ -1,0 +1,1139 @@
+﻿#EXTM3U
+#EXTINF:-1 resolution=854x480 group-title="Новостные", РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Новостные", РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Новостные", РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Новостные", РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 resolution=704x560 group-title="Новостные", РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", 12 (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="ქართული", 1 Georgia
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", 1+1
+http://2.57.217.85:8000/play/a01j/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", 11 канал (Пенза)
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", 2+2
+http://50.7.28.226/8117/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", 24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", 24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", 31 канал (Челябинск)
+https://rt-ural-chel-htlive.cdn.ngeni.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
+#EXTINF:-1 resolution=722x406 group-title="Фильмы", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 resolution=722x406 group-title="Музыкальные", 312 Музыка
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", 5 канал Україна
+http://api.tv.ipnet.ua/api/v1/manifest/2118742539.m3u8?codec=mpeg4
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", 555 (Алушта)
+http://trk555.tv:8888/live
+#EXTINF:-1 resolution=1280x720 group-title="Мужские", 555 Hunt Fishing TV
+rtmp://193.169.178.29/podsekaiTV/chanelHD
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", 8 канал
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", 88 FM STEREO
+http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", 88 FM STEREO
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", 88 FM STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", a1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", a1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", a1
+http://195.158.223.132:8009/A1
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", a1
+http://146.120.14.239:3001/play/a07g
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", a2
+http://31.148.48.15:80/A2/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", a2
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", a2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", a2
+http://146.120.14.239:3001/play/a07i
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", a2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", ALB MUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Amedia Hit
+http://45.145.32.13:20440/mama/index.m3u8?token=test
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Amedia Hit
+http://146.120.14.239:3001/play/a07j
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Amedia Premium
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+#EXTINF:-1 resolution=1280x720 group-title="Фильмы", Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Amedia Premium
+http://146.120.14.239:3001/play/a06u
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Ani
+http://176.118.197.125/Ani/index.m3u8
+#EXTINF:-1 resolution=426x240 group-title="Детские", Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Детские", Ani
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 resolution=720x576 group-title="Детские", Ani
+http://62.89.220.15/streams/media/ani_720x576/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Флора и Фауна", Animal Planet
+http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Animal Planet
+http://146.120.14.239:3001/play/a06z
+#EXTINF:-1 resolution=640x360 group-title="Общественные", Arirang TV (KR)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Հայերեն", ARTN
+http://livestream.usatv.com/hls/master-ARTN-NET.m3u8
+#EXTINF:-1 resolution=720x406 group-title="Turkmen", ASGABAT
+http://217.174.225.146/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 resolution=400x226 group-title="Turkmen", ASGABAT
+http://alpha.tv.online.tm/hls/ch006_400/index.m3u8
+#EXTINF:-1 resolution=640x352 group-title="Қазақ", Atameken Business
+http://sc.id-tv.kz/Atameken.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Bollywood
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Bollywood
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Bollywood
+http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", BOLT
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Cartoon Network
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Cinema
+http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Cinema
+http://95.66.188.74/Cinema/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Cinema
+https://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Cinema
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Cinema
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 resolution=528x480 group-title="Фильмы", Cinemax
+http://201.217.246.177:8000/play/a04s/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", DBM TV
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Discovery
+http://195.64.140.147:10151/151
+#EXTINF:-1 resolution=1980x1920 group-title="Детские", Disney канал
+http://zabava-htlive.cdn.ngeni.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", EPIC DRAMA
+http://lb.wisp.cat/lb0/EpicDramaHD/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=1024x576 group-title="Новостные", Euronews
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Europa Plus
+http://93.125.121.61:8383/play/a01o
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Eurosport 1
+http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Eurosport 2
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Eurosport 2
+http://146.120.14.239:3001/play/a07c
+#EXTINF:-1 resolution=1920x1080 group-title="Детские", FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 resolution=794x450 group-title="Женские", Fashion TV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 resolution=794x450 group-title="Женские", Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", FightBox
+http://lb.wisp.cat/lb0/Fightbox/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=640x360 group-title="Фильмы", FilmBox
+https://mhd128.iptv2022.com/p/zgnGDxFoJBxP5EgKjic8Yw,1750021208/streaming/filmbox/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", FilmBox Arthouse
+http://lb.wisp.cat/lb0/Filmbox_Arthouse/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Fox
+http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=426x240 group-title="Спортивные", Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_nam
+#EXTINF:-1 resolution=426x240 group-title="Спортивные", Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_nam
+#EXTINF:-1 resolution=426x240 group-title="Спортивные", Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_nam
+#EXTINF:-1 resolution=426x240 group-title="Спортивные", Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_nam
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Galaxy
+http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", HISTORY
+http://95.85.109.219:7000/play/a069
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", HOLLYWOOD
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", HOLLYWOOD
+http://146.120.14.239:3001/play/a06t
+#EXTINF:-1 resolution=770x576 group-title="Українські", ICTV
+http://saveukraine.only.tv/5605/video.m3u8?token=saveUkrain
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", ID
+http://195.64.140.147:10152/152
+#EXTINF:-1 resolution=640x360 group-title="Українські", iTV (Ровно)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 resolution=360x180 group-title="Новостные", iz.RU
+http://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Новостные", iz.RU
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Новостные", iz.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Новостные", iz.RU
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Новостные", iz.RU
+http://hls-igi.cdnvideo.ru/igi/igi1_hq/playlist.m3u8
+#EXTINF:-1 resolution=320x180 group-title="Музыкальные", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 resolution=320x180 group-title="Музыкальные", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Музыкальные", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Қазақ", KTK
+http://89.218.30.37/ktklive/live.hq/f1tv.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", KTV (Кизилюрт)
+http://185.78.112.46:8077/KTV/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Музыкальные", MCM TOP
+http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+#EXTINF:-1 resolution=720x406 group-title="Turkmen", MIRAS
+http://217.174.225.146/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 resolution=400x226 group-title="Turkmen", MIRAS
+https://alpha.tv.online.tm/legacyhls/ch003_400/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", MTV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Nano TV
+http://178.134.1.158:8081/nano/index.m3u8?token=tva.in.ua
+#EXTINF:-1 resolution=1920x1080 group-title="Флора и Фауна", National Geographic Wild
+http://188.237.47.212:6005
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", National Geographic
+http://88.99.215.227/NationalGeographic/index.m3u8?token=Home
+#EXTINF:-1 resolution=720x576 group-title="Детские", Nick Jr.
+http://lb.wisp.cat/lb0/NickJr/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=640x480 group-title="Детские", Nickelodeon
+http://iptv-telik.usite.pro/load/0-0-1-125-20
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", NIKI Kids
+http://2.57.217.85:8000/play/a08f/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", NRG 91 TV
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Музыкальные", Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Музыкальные", Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Музыкальные", Ocko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Музыкальные", Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", OPOjA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Paramount Channel
+http://iptv.prosto.tv:7000/ch39/video.m3u8?secret=7va3b5tb
+#EXTINF:-1 resolution=720x576 group-title="Українські", Prime Time (Одеса)
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1 resolution=320x180 group-title="Музыкальные", Q Music
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 resolution=320x180 group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 resolution=1280x720 group-title="Спортивные", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Renome (Одеса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Музыкальные", RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", RTG TV
+http://176.118.197.125/RTG-TV/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Setanta Sports+
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282500
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Setanta Sports 1
+http://141.95.55.1/CH1013/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Setanta Sports 2
+http://158.160.149.81:8080/8829/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Мужские", SHOT TV
+http://91.207.115.228:5000/c131
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Simon (Харків)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Фильмы", Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Star Family
+http://iptv.prosto.tv:7000/ch57/video.m3u8?secret=7va3b5tb
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Travel Channel
+http://2.57.217.85:8000/play/a03y/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Travel+Adventure
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 resolution=640x360 group-title="Познавательные", Travel+Adventure
+http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
+#EXTINF:-1 resolution=400x226 group-title="Turkmen", Turkmen Owazy
+http://alpha.tv.online.tm/hls/ch005_400/index.m3u8
+#EXTINF:-1 resolution=720x406 group-title="Turkmen", Turkmenistan Sport
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 resolution=720x406 group-title="Turkmen", Turkmenistan TV
+http://217.174.225.146/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", TV 1000
+http://176.118.197.125/viju-TV1000/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", TV 1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", TV 1000
+http://45.145.32.13:20440/tv1000/index.m3u8?token=test
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", TV 1000
+http://2.57.217.85:8000/play/a09x/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", TV 1000 Action
+http://2.57.217.85:8000/play/a09y/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", TV 1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", TV 1000 World Kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", TV 1000 Русское кино
+http://80.245.95.243:8888/play/a02k/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Познавательные", UNIVER TV
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", UNIVER TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", UNIVER TV
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", V2BEAT
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 resolution=720x480 group-title="Региональные", Vetta 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 resolution=720x480 group-title="Региональные", Vetta 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/chunks.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Viasat Explore
+http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Viasat Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", Viasat Explore
+http://176.118.197.125/viju-Explore/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Viasat History
+http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", Viasat History
+http://176.118.197.125/viju-History/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Флора и Фауна", Viasat Nature
+http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Флора и Фауна", Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Viasat Nature
+http://176.118.197.125/viju-Nature/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Viasat Sport
+http://2.57.217.85:8000/play/a0a0/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", ViP Comedy
+https://stream2.somon.tv/vipcomedy/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", VIP Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", VIP Megahit
+https://stream2.somon.tv/vipmegahit/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", ViP Premiere
+https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", ViP Serial
+https://stream2.somon.tv/vipserial/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Мужские", Visit-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Українські", Xsport
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Українські", Xsport
+http://iptv.prosto.tv:7000/ch16/video.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", Xsport
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 resolution=400x226 group-title="Turkmen", Yaslyk
+http://alpha.tv.online.tm/hls/ch002_400/index.m3u8
+#EXTINF:-1 resolution=720x404 group-title="Фильмы", Zee TV
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Zoo Парк
+http://77.235.1.19:8000/play/a06n/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", ZOOM
+http://50.7.28.226/9332/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Мужские", Авто 24
+http://45.145.32.13:20440/avto24/index.m3u8?token=test
+#EXTINF:-1 resolution=1600x1058 group-title="Мужские", Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 resolution=1118x576 group-title="Мужские", Авто Плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 resolution=720x576 group-title="Мужские", Авто Плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Мужские", Авто Плюс
+http://146.120.14.239:3001/play/a07n
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", АИСТ (Иркутск)
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 resolution=854x480 group-title="Региональные", Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Региональные", Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 resolution=800x452 group-title="Региональные", атв (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 resolution=1280x768 group-title="Українські", Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Региональные", Башкортостан 24
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Башкортостан 24
+http://109.233.169.137/hls/b24-hls.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Беларускія", Беларусь 1
+http://178.124.183.5/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
+#EXTINF:-1 resolution=1920x1080 group-title="Беларускія", Беларусь 3
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Беларускія", Беларусь 4
+http://178.124.183.5/hls/CH_BELARUS4GOM_HLS/variant.m3u8?version=2
+#EXTINF:-1 resolution=640x360 group-title="Беларускія", Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Беларускія", Беларусь 5
+http://146.120.14.239:3001/play/a06l
+#EXTINF:-1 resolution=480x270 group-title="Общественные", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 resolution=480x270 group-title="Общественные", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 resolution=720x540 group-title="Общественные", БелРос
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Общественные", БелРос
+http://146.120.14.239:3001/play/a0gk
+#EXTINF:-1 resolution=1920x1080 group-title="Беларускія", БелСат
+https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Бігуді
+http://50.7.28.226/9328/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Блокбастер
+http://50.7.28.226/8939/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Бобёр
+http://176.118.197.125/Bober/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Познавательные", Бобёр
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Бобёр
+http://146.120.14.239:3001/play/a0du
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", БСТ24 (Братск)
+https://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Беларускія", Вектор ТВ (Новополоцк)
+http://178.124.183.5/hls/CH_VECTOR_HLS/variant.m3u8?version=2
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Вестник Надыма
+https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Волгоград 24
+https://rt-sth-vgrad-htlive.cdn.ngeni.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", ГiТ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Глазами туриста
+http://146.120.14.239:3001/play/a0bs
+#EXTINF:-1 resolution=640x360 group-title="Новостные", Говорит Москва
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Губерния (Самара)
+https://rt-vlg-samara-htlive.cdn.ngeni.net/hls/CH_R02_GUBERNIA/variant.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Дагестан
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Региональные", Дагестан
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Дача
+http://84.245.224.71/DachaHD/mono.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Детские", Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 resolution=720x576 group-title="Детские", Детский мир
+http://146.120.14.239:3001/play/a0fc
+#EXTINF:-1 resolution=720x576 group-title="Детские", Детский мир
+http://62.89.220.15/streams/media/detskiy-mir_720x576/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", ДИКАЯ ОХОТА
+http://146.120.14.239:3001/play/a0ji
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", ДИКАЯ РЫБАЛКА
+http://146.120.14.239:3001/play/a0jk
+#EXTINF:-1 resolution=640x360 group-title="Общественные", Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Доктор
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 resolution=1920x1080, Дом (Пенза)
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Дом Кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Дом Кино
+http://146.120.14.239:3001/play/a073
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Дом Кино
+http://62.89.220.15/streams/media/dom-kino_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Дом Кино Премиум
+http://146.120.14.239:3001/play/a097
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Общественные", Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Общественные", Домашний
+http://45.145.32.13:20440/domashnij/index.m3u8?token=test
+#EXTINF:-1 resolution=720x576 group-title="Общественные", Домашний
+http://146.120.14.239:3001/play/a06n
+#EXTINF:-1 resolution=720x576 group-title="Общественные", Домашний
+http://185.46.16.239:8000/Domashniy
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Дорама
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Дорама
+http://146.120.14.239:3001/play/a07k
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Думская TV (Одеса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Еврокино
+http://45.145.32.13:20440/eurokino/index.m3u8?token=test
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Еврокино
+http://87.120.142.11:18000/STSLove
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Еврокино
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 resolution=1920x1080 group-title="Женские", Еда
+http://lb.wisp.cat/lb0/edahd/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Енисей (Красноярск)
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Еспресо
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1 resolution=720x404 group-title="Музыкальные", Жар птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Живая планета
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 resolution=720x576 group-title="Флора и Фауна", Живая планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Загородная Жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Загородная Жизнь
+http://146.120.14.239:3001/play/a0bp
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Загородный
+http://lb.wisp.cat/lb0/Zagorodniy/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 resolution=480x384 group-title="Українські", Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+#EXTINF:-1 resolution=320x256 group-title="Українські", Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr-lq/izod/izod-sub2/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
+#EXTINF:-1 resolution=1118x576 group-title="Фильмы", Иллюзион+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Ингушетия ТВ
+http://185.78.112.46:8077/INGUSHETIYA/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Iнтер
+http://299628297078.cdn-eag.com:80/6smkto4a4e/rtwev2gfqd/1282550
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", IНШИЙ
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 resolution=720x406 group-title="Региональные", К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Религиозные", Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Кавказ 24
+https://rt-sth-stavr-htlive.cdn.ngeni.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Региональные", Каменск ТВ (Каменск-Уральский)
+rtmp://89.107.113.89/live/kamensktv
+#EXTINF:-1 resolution=768x432 group-title="Фильмы", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 resolution=768x432 group-title="Фильмы", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 resolution=768x432 group-title="Фильмы", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кино ТВ
+http://195.158.223.132:8009/Kino_TV
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кинокомедия
+http://146.120.14.239:3001/play/a07t
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", КиноМикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", КиноМикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", КиноМикс
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", КиноМикс
+http://185.46.16.239:8000/Fox_Life_HD
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", КиноМикс
+http://146.120.14.239:3001/play/a07q
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", КиноМикс
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", КиноМикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Кинопоказ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Киносвидание
+http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киносвидание
+http://146.120.14.239:3001/play/a07r
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киносвидание
+http://195.158.223.132:8008/Kinosvidanie
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Киносемья
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Киносемья
+http://146.120.14.239:3001/play/a082
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Киносерия
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киносерия
+http://95.66.188.74/Kinoseriya/mono.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киносерия
+http://146.120.14.239:3001/play/a07x
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Кинохит
+http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Кинохит
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Кинохит
+http://146.120.14.239:3001/play/a07s
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Комедийное
+http://178.217.72.66:8080/komediynoe/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", КРТВ (Красногорск)
+http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Краснодар ТВ
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", Крым 24
+http://iptv.crimea.net:8787
+#EXTINF:-1 resolution=1920x1080 group-title="Қазақ", КТК
+http://89.218.30.37/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Женские", Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Женские", Кухня ТВ
+http://62.89.220.15/streams/media/kuhnya-tv_720x576/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", КХЛ
+http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
+#EXTINF:-1 resolution=854x480 group-title="Новостные", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Новостные", ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Новостные", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 resolution=854x480 group-title="Новостные", ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/chunklist.m3u8
+#EXTINF:-1 resolution=854x480 group-title="Новостные", ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", М Студио (Мукачево)
+http://213.174.23.59:8080/MS
+#EXTINF:-1 resolution=768x576 group-title="Українські", М2
+http://158.101.222.193:88/georgia_play.php?id=m2
+#EXTINF:-1 resolution=640x360 group-title="Українські", М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", М2
+http://live.m2.tv/hls3/stream.m3u8?key=3i277
+#EXTINF:-1 resolution=640x360 group-title="Українські", М2
+https://rebrand.ly/h46jugi/ROSTIK-TV/M-2
+#EXTINF:-1 resolution=1280x720 group-title="Українські", М2
+http://live.m2.tv/hls3/720/stream.m3u8
+#EXTINF:-1 resolution=768x576 group-title="Детские", Мама
+http://176.118.197.125/Mama/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Детские", Мама
+http://62.89.220.15/streams/media/mama_720x576/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Матч!
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Матч!
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Матч!
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Спортивные", Матч!
+http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Матч!
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч!
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Спортивные", Матч!
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Спортивные", Матч!
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч!
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч! Арена
+http://195.191.208.11:8087/udp/238.9.64.136:1234
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч! Игра
+http://62.89.220.15/streams/media/match-igra_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч! Премьер
+http://91.207.115.228:5000/c105
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Матч! Страна
+http://195.191.208.11:8087/udp/238.9.64.134:1234
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Матч! Футбол 1
+http://cdn.admuspeh.my/8021/index.m3u8?token=Tva7UspehTest25w
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Матч! Футбол 2
+http://cdn.admuspeh.my/8022/index.m3u8?token=Tva7UspehTest25w
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Матч! Футбол 3
+http://cdn.admuspeh.my/8029/index.m3u8?token=Tva7UspehTest25w
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Матур ТВ (Уфа)
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Матур ТВ (Уфа)
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Українські", Мега
+http://141.95.55.1/CH791/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Миллет (Крым)
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Мордовия 24
+http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Москва 24
+http://rt-mos-htlive.cdn.ngen.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", Моя планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Моя планета
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Моя планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Моя планета
+http://146.120.14.239:3001/play/a06v
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", МТВ (Волгоград)
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1118x576 group-title="Фильмы", Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Мужское кино
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Мужское кино
+http://146.120.14.239:3001/play/a07y
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Мужское кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 resolution=768x576 group-title="Мужские", Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 resolution=720x576 group-title="Мужские", Мужской
+http://146.120.14.239:3001/play/a0br
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", Муз союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Музыкальные", Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Муз союз
+http://146.120.14.239:3001/play/a08g
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", Музыка 1
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=426x240 group-title="Детские", Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Детские", Мульт
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 resolution=720x576 group-title="Детские", Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 resolution=720x576 group-title="Детские", Мульт
+http://146.120.14.239:3001/play/a071
+#EXTINF:-1 resolution=720x576 group-title="Детские", Мульт
+http://86.57.209.210/Mult/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Общественные", Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Надiя
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Надiя
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Познавательные", Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Наука 2.0
+http://185.46.16.239:8000/Nauka_2.0
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Наука 2.0
+http://2.57.217.85:8000/play/a019/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Наше Новое Кино
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Наше Новое Кино
+http://62.89.220.15/streams/media/nashe-novoe-kino_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Религиозные", НВК Саха (Якутия)
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", Ника ТВ (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=848x480 group-title="Музыкальные", Новое радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Развлекательные", Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Українські", Новий канал
+http://141.95.55.1/CH785/index.m3u8
+#EXTINF:-1 resolution=768x576 group-title="Познавательные", Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 resolution=768x576 group-title="Познавательные", Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 resolution=768x576 group-title="Познавательные", Ностальгия
+http://31.148.48.15:80/Nostalgiya/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Ностальгия
+http://95.66.188.74/Nostalgia/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Ностальгия
+http://146.120.14.239:3001/play/a081
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Ностальгия
+http://62.89.220.15/streams/media/nostalgiya_720x576/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", НСТ
+http://195.9.195.3:8080/hls/217855.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", НТВ
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", НТВ
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Беларускія", НТВ Беларусь
+http://178.124.183.5/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
+#EXTINF:-1 resolution=704x576 group-title="Общественные", НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Женские", НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Фильмы", НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", НТК ТВ (Коломия)
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", НТК ТВ (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?key=3i277
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", НТК ТВ (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 resolution=426x240 group-title="Региональные", НТМ (Мордовия)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", НТН
+http://141.95.55.1/CH7617/index.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", НТС (Иркутск)
+https://rt-sib-irk-htlive.cdn.ngeni.net/hls/CH_R01_OTT_SIB_IRK_RENTVIRK/variant.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", НТС (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Детские", О!
+http://146.120.14.239:3001/play/a07l
+#EXTINF:-1 resolution=1280x720 group-title="Познавательные", Общественное Независимое Телевидение
+https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Беларускія", ОНТ
+http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
+#EXTINF:-1 resolution=854x480 group-title="Українські", Орбiта
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", ОРТ Планета (Оренбург)
+https://rt-vlg-orb-htlive.cdn.ngeni.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", ОСТРОСЮЖЕТНОЕ
+http://50.7.28.226/8184/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Мужские", Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", Охотник и рыболов
+http://46.8.46.14/ohota/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Українські", Оце
+http://50.7.28.226/9324/index.m3u8
+#EXTINF:-1 resolution=400x226 group-title="Общественные", Первый канал
+http://alpha.tv.onlin.tm/hls/ch003_400/index.m3u8
+#EXTINF:-1 resolution=640x352 group-title="Қазақ", Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
+#EXTINF:-1 resolution=770x576 group-title="Українські", Первый городской (Кривий Ріг)
+http://saveukraine.only.tv/6748/video.m3u8?token=saveUkrain
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Первый городской (Одеса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Первый городской (Одеса)
+http://91.194.79.46:8081/stream1/channel1/chunks.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Первый городской (Одеса)
+http://91.194.79.46:8081/stream2/channel2/chunks.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Первый Музыкальный BY
+http://rtmp.one.by:1200?checkedby:iptvcat.com
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Первый Тульский
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Первый Тульский
+http://1tvtula.ru/tula/1tv_hi/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Развлекательные", Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", Плюс Плюс
+http://50.7.28.226/9455/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Поехали!
+http://91.194.191.241:8081/chid278/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Премиальное
+http://50.7.28.226/8028/index.m3u8
+#EXTINF:-1 resolution=1920x1440 group-title="Региональные", Прибой ТВ (Махачкала)
+http://185.78.112.46:8077/priboy_tv/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Познавательные", Приключения
+http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=848x480 group-title="Українські", Прямий
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Пятница!
+http://185.46.16.239:8000/Pyatnitsa
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Пятница!
+http://62.89.220.15/streams/media/pyatnica_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Пятница!
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Развлекательные", Пятница!
+http://45.145.32.13:20440/piatnica/index.m3u8?token=test
+#EXTINF:-1 resolution=960x540 group-title="Українські", Рада
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", Рен ТВ
+http://141.95.55.1/CH4523/index.m3u8
+#EXTINF:-1 resolution=848x480 group-title="Українські", Репортер (Одеса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Репортер (Одеса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", Ретро
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", Ретро
+http://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Общественные", Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Общественные", РЖД ТВ
+https://hls-tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", Рибалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", Рибалка
+http://iptv.prosto.tv:7000/ch88/video.m3u8?secret=7va3b5tb
+#EXTINF:-1 resolution=1048x576 group-title="Фильмы", Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Родное кино
+http://62.89.220.15/streams/media/rodnoe-kino_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Родное кино
+http://146.120.14.239:3001/play/a07z
+#EXTINF:-1 resolution=1024x576 group-title="Общественные", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Новостные", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 resolution=854x480 group-title="Общественные", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Ростов-Папа
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Русский Иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Фильмы", Русский Роман
+http://109.171.45.109:81/udp/239.54.5.87:1224
+#EXTINF:-1 resolution=1920x1080 group-title="Мужские", Русский Экстрим
+http://195.191.208.11:8087/udp/238.2.49.89:1234
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", ТКР Рязань
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Детские", Рыжий
+http://91.207.115.228:5000/c62
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Самара ГИС
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", СВАРОЖИЧИ
+http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 resolution=900x576 group-title="Познавательные", Светлое ТВ
+http://194.158.218.123:8880/SvetloeTV/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Региональные", Север (Ненецкий автономный округ)
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Региональные", Север (Ненецкий автономный округ)
+http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt360p/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 resolution=960x540 group-title="Українські", Сонце
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Религиозные", Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Религиозные", Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Українські", СТБ
+http://141.95.55.1/CH4663/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Страна FM
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 resolution=1280x720 group-title="Музыкальные", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Страшное
+http://50.7.28.226/8198/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Детские", СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Детские", СТС Kids
+http://146.120.14.239:3001/play/a0ob
+#EXTINF:-1 resolution=720x576 group-title="Детские", СТС Kids
+http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Общественные", СТС Love
+http://91.207.115.228:5000/c51
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Телплюс (Астрахань)
+http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
+#EXTINF:-1 resolution=640x480 group-title="Развлекательные", ТВ3
+http://86.57.209.210/TB-3/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", ТВ3
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 resolution=480x360 group-title="Беларускія", ТВ3 BY
+http://178.124.183.5/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 resolution=1280x720 group-title="Українські", ТВА (Чернівці)
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Қазақ", ТвоЁ ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Общественные", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Общественные", ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Развлекательные", Теледом
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Развлекательные", Теледом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Тернопіль 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", ТЕТ
+http://31.43.48.248:7000/ch7/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Тивиком (Улан-Удэ)
+http://212.0.69.146/tvcom/studio/index.m3u8
+#EXTINF:-1 resolution=848x480 group-title="Українські", ТIС (Одеса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Региональные", ТНВ ПЛАНЕТА
+http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Региональные", ТНВ ПЛАНЕТА
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 resolution=1920x1080 group-title="Развлекательные", ТНТ International
+http://146.120.14.239:3001/play/a08i
+#EXTINF:-1 resolution=640x360 group-title="Развлекательные", ТНТ4
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", ТНТ EXCLUSIV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", ТНТ Music
+http://185.46.16.239:8000/Nashe_TV
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Тольятти 24
+https://rt-vlg-samara-htlive.cdn.ngen.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Українські", Трофей
+http://lb.wisp.cat/lb0/Trofey/mpegts?token=nPfO4rRaax
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", Туган Тел
+http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 resolution=1980x1920 group-title="Региональные", Тюменское Время
+https://rt-ural-tum-htlive.cdn.ngeni.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Україна
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 resolution=640x360 group-title="Українські", Україна 24
+http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Детские", Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Детские", Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 resolution=720x576 group-title="Детские", Уникум
+http://146.120.14.239:3001/play/a084
+#EXTINF:-1 resolution=720x576 group-title="Детские", Уникум
+http://62.89.220.15/streams/media/detskiy_720x576/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Познавательные", Усадьба
+http://91.207.115.228:5000/c176
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Футбол
+http://146.120.14.239:3001/play/a0fp
+#EXTINF:-1 resolution=720x576 group-title="Спортивные", Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Футбол 2
+http://50.7.28.226/8022/index.m3u8
+#EXTINF:-1 resolution=1048x576 group-title="Спортивные", Футбол 3
+http://50.7.28.226/8029/index.m3u8
+#EXTINF:-1 resolution=640x352 group-title="Қазақ", Хабар 24
+http://sc.id-tv.kz/Khabar_24.m3u8
+#EXTINF:-1 resolution=1280x720 group-title="Региональные", ХИТ (Орск)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 resolution=1920x1080 group-title="Религиозные", Хузур ТВ (Татарстан)
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Че!
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Че!
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Че!
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 resolution=1280x720 group-title="Українські", Чернівецький Промінь
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 resolution=320x256 group-title="Музыкальные", Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Шансон ТВ
+http://146.120.14.239:3001/play/a0i3
+#EXTINF:-1 resolution=720x576 group-title="Музыкальные", Шансон ТВ
+http://185.46.16.239:8000/Shanson
+#EXTINF:-1 resolution=1920x1080 group-title="Фильмы", Шокирующее
+http://195.191.208.11:8087/udp/238.2.48.137:1234
+#EXTINF:-1 resolution=480x270 group-title="Региональные", Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 resolution=600x480 group-title="Региональные", Эхо 24 (Новоуральск)
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 resolution=1024x576 group-title="Региональные", Эхо ТВ (Рязань)
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 resolution=720x576 group-title="Развлекательные", Ю
+http://91.207.115.228:5000/c50
+#EXTINF:-1 resolution=1920x1080 group-title="Региональные", ЯКУТИЯ 24
+http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
